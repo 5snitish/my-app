@@ -1,0 +1,40 @@
+.body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 800px;
+    width: 800px;
+} 
+ 
+ .register{
+      
+     height: 300px;
+     width: 600px;
+     background-color:white;
+     padding:20px;
+ }
+.username1{
+     
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+ label{
+     margin: 10px;
+ }
+
+
+ #i1{
+     margin-left :23px
+ }
+ .register_tittle{
+     padding:10px;
+    display: flex;
+    justify-content:center;
+    padding-bottom: 50px;
+ }
+
+
+ .home{
+     height :800px;
+     width :300px;
+ }
